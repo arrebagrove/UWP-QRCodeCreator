@@ -1,5 +1,6 @@
-MainPackage=D:\Edi-GitHub\UWP-QRCodeCreator\QRCodeCreator\bin\ARM\Release\Upload\QRCodeCreator_1.3.13.0_ARM.appx
-ResourcePack=D:\Edi-GitHub\UWP-QRCodeCreator\QRCodeCreator\_scale-100.appx
-ResourcePack=D:\Edi-GitHub\UWP-QRCodeCreator\QRCodeCreator\_scale-125.appx
-ResourcePack=D:\Edi-GitHub\UWP-QRCodeCreator\QRCodeCreator\_scale-150.appx
-ResourcePack=D:\Edi-GitHub\UWP-QRCodeCreator\QRCodeCreator\_scale-400.appx
+MainPackage=C:\Edi-GitHub\UWP-QRCodeCreator\QRCodeCreator\bin\ARM\Release\Upload\QRCodeCreator_1.4.816.0_ARM.appx
+SymbolPackage=C:\Edi-GitHub\UWP-QRCodeCreator\QRCodeCreator\AppPackages\QRCodeCreator_1.4.816.0\QRCodeCreator_1.4.816.0_ARM.appxsym
+ResourcePack=C:\Edi-GitHub\UWP-QRCodeCreator\QRCodeCreator\_scale-100.appx
+ResourcePack=C:\Edi-GitHub\UWP-QRCodeCreator\QRCodeCreator\_scale-125.appx
+ResourcePack=C:\Edi-GitHub\UWP-QRCodeCreator\QRCodeCreator\_scale-150.appx
+ResourcePack=C:\Edi-GitHub\UWP-QRCodeCreator\QRCodeCreator\_scale-400.appx
